@@ -1,0 +1,24 @@
+img {width:60%;
+	height: 190px;
+	border-radius: 50%;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.py-5 .container{
+	margin-bottom: 50px;	
+}
+.py-5 .container h2{
+	text-align: center;
+}
+.py-5 .container .row .col-md-4 a:hover {
+    text-decoration: none;
+}
+.py-5 .container .row :hover h2 {
+	color: #f59e42;
+	text-decoration: none;
+}
+.py-5 .container .row :hover img {
+	 border:3px solid #333;
+
+}

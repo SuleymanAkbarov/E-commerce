@@ -1,0 +1,76 @@
+body {
+	margin: 0px;
+}
+
+.head12 {
+	height: 100px;
+}
+.head12 .top12 {
+	background-color:#b86800;
+	height: 110px;
+	width: 100%;
+}
+.head12 .top12 .slogan {
+	padding-top: 20px;
+	text-align: center;
+	width: 10%;
+	float: left;
+}
+.head12 .top12 .slogan h1{ 
+	font-family: Arial,sans-serif;
+	position: relative;
+	color: white;
+	font-size: 50px;
+	display:inline;
+	text-decoration: none;
+}
+.head12 .top12 .slogan a:link {
+  text-decoration: none;
+}
+
+.head12 .top12 .slogan a:visited {
+  text-decoration: none;
+}
+
+.head12 .top12 .slogan a:hover {
+  text-decoration: none;
+}
+
+.head12 .top12 .slogan a:active {
+  text-decoration: none;
+}
+.head12 .top12 .menu12 {
+	width: 90%;
+	float: right;
+	border: 0px;
+}
+
+
+.head12 .top12 .menu12 ul {
+  list-style-type: none;
+  margin: 30px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b86800;
+}
+
+.head12 .top12 .menu12 li {
+  float: left;
+  width: 200px;
+  
+
+}
+
+.head12 .top12 .menu12 li a {
+	font-family: Arial,sans-serif;
+	font-size: 20px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.head12 .top12 .menu12 li a:hover {
+  color: #47b2e4;
+}
